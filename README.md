@@ -2,7 +2,7 @@
 
 People say I'm pretty good at this javascript stuff.
 
-## Go ahead ask me about...
+## Go ahead and ask me about...
 * Permaculture
 * The modern web ecosystem
 * Type Theory
